@@ -10,7 +10,6 @@ Description:
     All available actions are displayed to consol upon running the program.
     Actions are chosen based on integer input (integers 1-11).
 
-
 Source files included:
     TreeNode.h
     LazyBST.h
